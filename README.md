@@ -1,2 +1,2 @@
 # Squeezing-Level
-The calculation program of squeezing level when using optical parametric down conversion with loss of either pump light or squeezed light
+The calculation program of squeezing level when using an optical parametric down conversion divece with loss of either pump light or squeezed light
